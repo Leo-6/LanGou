@@ -1,0 +1,10 @@
+<?xml version ="1.0" encoding ="utf-8"?>
+<litepal>
+    <dbname value = "money"></dbname>
+    <version value = "12"></version>
+    <list>
+        <mapping class = "com.example.dell.langou.Money"></mapping>
+        <mapping class = "com.example.dell.langou.Bottom"></mapping>
+        <mapping class = "com.example.dell.langou.LanGou"></mapping>
+    </list>
+</litepal>

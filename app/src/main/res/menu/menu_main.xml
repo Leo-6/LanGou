@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.dell.langou.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="清空所有账单"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_setting2"
+        android:orderInCategory="100"
+        android:title="切换月份"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_setting3"
+        android:orderInCategory="100"
+        android:title="统计所有金额"
+        app:showAsAction="never"/>
+</menu>
